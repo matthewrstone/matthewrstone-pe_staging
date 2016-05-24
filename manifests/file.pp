@@ -1,3 +1,6 @@
-define pe_staging::file {
+define pe_staging::file(
+  $source,
+  $target
+) {
 
 }
